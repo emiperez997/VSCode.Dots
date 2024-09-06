@@ -132,16 +132,6 @@
     "when": "terminalFocus"
   },
   {
-    "key": "shift+h",
-    "command": "workbench.action.previousEditor",
-    "when": "editorTextFocus"
-  },
-  {
-    "key": "shift+l",
-    "command": "workbench.action.nextEditor",
-    "when": "editorTextFocus"
-  },
-  {
     "key": "ctrl+t",
     "command": "workbench.action.terminal.toggleTerminal",
     "when": "terminal.active"
